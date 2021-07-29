@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DAL\bin\Debug\ActivityEF_DAL.dll.config
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DAL\bin\Debug\ActivityEF_DAL.dll
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DAL\bin\Debug\ActivityEF_DAL.pdb
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DAL\bin\Debug\ActivityEF_DTO.dll
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DAL\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DAL\bin\Debug\ActivityEF_DTO.pdb
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DAL\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DAL\obj\Debug\ActivityEF_DAL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DAL\obj\Debug\ActivityEF_DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DAL\obj\Debug\ActivityEF_DAL.csproj.CopyComplete
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DAL\obj\Debug\ActivityEF_DAL.dll
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DAL\obj\Debug\ActivityEF_DAL.pdb

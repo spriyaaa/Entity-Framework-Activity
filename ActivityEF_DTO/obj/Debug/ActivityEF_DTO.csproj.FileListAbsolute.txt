@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DTO\bin\Debug\ActivityEF_DTO.dll
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DTO\bin\Debug\ActivityEF_DTO.pdb
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DTO\obj\Debug\ActivityEF_DTO.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DTO\obj\Debug\ActivityEF_DTO.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DTO\obj\Debug\ActivityEF_DTO.dll
+C:\Users\hp\source\repos\EF_Activity\ActivityEF_DTO\obj\Debug\ActivityEF_DTO.pdb
